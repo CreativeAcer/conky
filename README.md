@@ -1,6 +1,12 @@
 # CONKY CONFIGURATION FILE
 
 This file is my personal conky setup used in a ThinkPad T430  
+
+### credits  
+I used the conky configuration file from:  
+[neoncipher](http://neoncipher.net/v/conky/)  
+as a base.
+
 Hardware where this config is used on  
 ### cpu
 i7-3540m
