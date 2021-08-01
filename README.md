@@ -6,8 +6,12 @@ This file is my personal conky setup used in a ThinkPad T430
 I used the conky configuration file from:  
 [neoncipher](http://neoncipher.net/v/conky/)  
 as a base.
+  
+Official Conky repo  
+[conky](https://github.com/brndnmtthws/conky )  
+ 
 
-Hardware where this config is used on  
+# Hardware where this config is used on  
 ### cpu
 i7-3540m
 ### OS
